@@ -1,13 +1,11 @@
-body, html, nav, label, id, input,
-section, ul, li, a,
-img, svg, aside, div, p, img, figure{
+ html, nav, a, div{
     border: 0;
     margin: 0;
     padding: 0;
     text-decoration: none;
 }
 body{
-    background-color: #F1EFE7;
+    background-color: #F1EFE7 !important;
     font-family: "math" !important;
 }
 .imagem2 {

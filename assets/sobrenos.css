@@ -1,5 +1,4 @@
-html, body, main, nav, div,
-ul, li, a, img {
+html, nav, div, a{
     border: 0;
     margin: 0;
     padding: 0;
