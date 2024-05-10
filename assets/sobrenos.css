@@ -7,6 +7,7 @@ ul, li, a, img {
 }
 body {
     background-color: #F1EFE7 !important;
+    font-family: "math" !important;
 }
 .logo2{
     width: 260px;

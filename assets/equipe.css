@@ -6,6 +6,14 @@ img, svg, aside, div, p, img, figure{
     padding: 0;
     text-decoration: none;
 }
+<<<<<<< HEAD
+body{
+    background-color: #F1EFE7;
+=======
+body {
+    font-family: "math" !important;
+>>>>>>> 477057235991f6656e2a70032053c838b5f4fcf6
+}
 .imagem2 {
     width: 260px;
     height: 200px;
@@ -36,6 +44,7 @@ img, svg, aside, div, p, img, figure{
     border-radius: 25px;
     margin-top: 50px;
     background-color: #E0D8CA;
+    margin-bottom: 50px;
 }
 .boxcima{
     justify-content: center;
@@ -47,8 +56,7 @@ img, svg, aside, div, p, img, figure{
 .boxbaixo{
     justify-content: center;
     align-items: center;
-    display: flex;
-    
+    display: flex;   
 }
 .equipetexto{
     font-size: 19px;
