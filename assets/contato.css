@@ -3,6 +3,7 @@ html, nav, div, a, body {
     text-decoration: none;
 }
 body {
+    font-size: 18px;
     background-color: #F1EFE7 !important;
     font-family: "math" !important;
 }
@@ -18,10 +19,12 @@ body {
     background-size: cover;
 }
 .titulo{
+    font-weight: bold;
     font-size: 20px;
     text-align: center;
 }
 .boxtexto{
+    font-size: 18px;
     text-align: center;
 }
 
@@ -39,6 +42,9 @@ body {
     flex-direction: column;
     width: 100%;
     gap: 10px;
+}
+label{
+    font-size: 18px;
 }
 input{
     padding: 10px;
