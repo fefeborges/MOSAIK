@@ -6,8 +6,13 @@ img, svg, aside, div, p, img, figure{
     padding: 0;
     text-decoration: none;
 }
+<<<<<<< HEAD
 body{
     background-color: #F1EFE7;
+=======
+body {
+    font-family: "math" !important;
+>>>>>>> 477057235991f6656e2a70032053c838b5f4fcf6
 }
 .imagem2 {
     width: 260px;
