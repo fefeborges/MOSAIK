@@ -1,0 +1,38 @@
+html, nav, div, a, body {
+    margin: 0;
+}
+body {
+    background-color: #F1EFE7 !important;
+}
+.imagem2 {
+    width: 260px;
+    height: 200px;
+    margin: 0 auto;
+}
+.imagem2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+.titulo{
+    font-size: 20px;
+    text-align: center;
+}
+.boxtexto{
+    text-align: center;
+}
+.campos{
+    margin-top: 35px;
+    text-align: center;
+}
+.boxlabel {
+    display: block;
+}
+.campos input {
+    padding: 2px;
+    width: 20%;
+    height: 30px;
+    margin-top: 20px;
+}
+
