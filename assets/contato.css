@@ -22,17 +22,41 @@ body {
 .boxtexto{
     text-align: center;
 }
-.campos{
-    margin-top: 35px;
-    text-align: center;
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 20px;
 }
-.boxlabel {
-    display: block;
+.campos {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
 }
-.campos input {
-    padding: 2px;
-    width: 20%;
-    height: 30px;
-    margin-top: 20px;
+input{
+    padding: 10px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
+.anexar{
+   background-color: white;
+   width: 30%;
+   height: 40px;
+   border-radius: 5px;
+   border: 1px solid black;
+}
+.enviar{
+    background-color:rgba(89,77,75,79);
+    color: white;
+    border-radius: 5px;
+    width: 30%;
+    height: 40px;
+}
+
 
