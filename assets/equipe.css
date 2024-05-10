@@ -1,0 +1,79 @@
+body, html, nav, label, id, input,
+section, ul, li, a,
+img, svg, aside, div, p, img, figure{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.boxCor{
+    width: 40%;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: #E0D8CA;
+}
+.boxCor2{
+    width: 40%;
+    height: 480px;
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: #E0D8CA;
+}
+.boxcima{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 30px;
+}
+.boxbaixo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+.equipetexto{
+    padding: 20px;
+    text-align: center;
+}
+.equipe{
+    width: 100%;  
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.equipe2{
+    width: 100%;  
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.nomemembros{
+   display: block;
+   margin-top: 5px;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boxAvatar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tamanho {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
