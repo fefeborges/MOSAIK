@@ -6,6 +6,22 @@ img, svg, aside, div, p, img, figure{
     padding: 0;
     text-decoration: none;
 }
+.imagem2 {
+    width: 260px;
+    height: 200px;
+    margin: 0 auto;
+}
+.imagem2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+.titulo{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+}
 .boxCor{
     width: 40%;
     height: 300px;
@@ -18,6 +34,7 @@ img, svg, aside, div, p, img, figure{
     height: 480px;
     margin: 0 auto;
     border-radius: 25px;
+    margin-top: 50px;
     background-color: #E0D8CA;
 }
 .boxcima{
@@ -25,6 +42,7 @@ img, svg, aside, div, p, img, figure{
     align-items: center;
     display: flex;
     padding: 30px;
+    
 }
 .boxbaixo{
     justify-content: center;
@@ -33,7 +51,8 @@ img, svg, aside, div, p, img, figure{
     
 }
 .equipetexto{
-    padding: 20px;
+    font-size: 19px;
+    padding: 15px;
     text-align: center;
 }
 .equipe{
