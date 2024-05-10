@@ -5,26 +5,27 @@ ul, li, a, img {
     margin: 0;
     padding: 0;
     text-decoration: none;
-    background-color: #F1EFE7;
 }
-.logo{
-    width: 300px;
+body {
+    background-color: #F1EFE7 !important;
+}
+.logo2{
+    width: 260px;
     height: 200px;
-    justify-content: center;
     margin: 0 auto;
 }
-.logo img{
+.logo2 img{
     width: 100%;
     height: 100%;
     object-fit: cover;
     background-size: cover;
 }
-.imagem{
+.imagem1{
     width: 600px;
     height: 500px;
     margin-top: 20px;
 }
-.imagem img{
+.imagem1 img{
     width: 100%;
     height: 100%;
     border-radius: 10px;
@@ -50,12 +51,13 @@ ul, li, a, img {
     font-weight: bold;
 }
 .box-texto {
-    font-size: 20px;
     height: 40%;
     text-align: left;
+    margin-top: 15px;
 }
 .texto{
     margin-top: 40px;
+    font-size: 17px;
 }
 .info-2{
     width: 80%;
@@ -67,7 +69,7 @@ ul, li, a, img {
     margin-top: 50px;
 }
 .texto-2{
-    font-size: 20px;
+    font-size: 17px;
 }
 .imagem2{
     width: 80%;
@@ -89,5 +91,5 @@ ul, li, a, img {
     margin-top: 40px;
 }
 .texto-3{
-    font-size: 20px;
+    font-size: 17px;
 }
