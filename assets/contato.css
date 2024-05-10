@@ -1,8 +1,10 @@
 html, nav, div, a, body {
     margin: 0;
+    text-decoration: none;
 }
 body {
     background-color: #F1EFE7 !important;
+    font-family: "math" !important;
 }
 .imagem2 {
     width: 260px;

@@ -3,6 +3,8 @@ html, nav, div, a {
 }
 body {
     background-color: #F1EFE7 !important;
+    font-family: "math" !important;
+    font-size: 18px;
 }
 .header-banner {
     width: 85%;

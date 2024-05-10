@@ -6,6 +6,9 @@ img, svg, aside, div, p, img, figure{
     padding: 0;
     text-decoration: none;
 }
+body {
+    font-family: "math" !important;
+}
 .imagem2 {
     width: 260px;
     height: 200px;
